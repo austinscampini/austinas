@@ -1,2 +1,1 @@
-# https-austinas.github.io-
-Computer Science Professional Website
+https://austinscampini.github.io/austinas/
